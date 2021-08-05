@@ -1,4 +1,8 @@
-## Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px">
+## Olá!
+
+Entusiasta por tecnologia, autodidata e curiosa.
+<br>
+Cursando superior em Análise e Desenvolvimento de Sistemas e aprofundando meus estudos na área de desenvolvimento Front-end.
 
 <a href="https://www.linkedin.com/in/laysqueiroz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href ="mailto: lysqueiroz@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
