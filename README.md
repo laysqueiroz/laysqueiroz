@@ -6,7 +6,6 @@ Atualmente estou realizando o curso superior em Análise e Desenvolvimento de Si
 
 <a href="https://www.linkedin.com/in/laysqueiroz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href ="mailto: lysqueiroz@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href ="https://www.instagram.com/eulaysqueiroz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 <div>
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=laysqueiroz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
