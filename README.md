@@ -1,9 +1,14 @@
 ## Olá!
 
-Entusiasta por tecnologia, autodidata e curiosa.
+Meu nome é Lays e tenho experiência em testes de software, incluindo levantamento e análise de requisitos, elaboração de planos de testes, cenários de testes, execução de casos de testes manuais e automatizados, criação de registros para documentar fases de testes e defeitos, e reportação de erros e falhas para a equipe de desenvolvimento. Também tenho habilidades na criação de material de suporte e documentação para o usuário.
 <br>
-Atualmente estou realizando o curso superior em Análise e Desenvolvimento de Sistemas e sou Analista de Testes/QA na Triplos Tecnologia.
-
+<br>
+Além disso, tenho experiência em testes de ERP (Enterprise Resource Planning) e conhecimento de metodologia ágil, SQL, Microsoft Azure e o básico em programação. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas para aprimorar ainda mais minhas habilidades.
+<br>
+<br>
+Estou sempre em busca de novos desafios e oportunidades para crescer como profissional e contribuir para o sucesso de projetos de software.
+<br>
+<br>
 <a href="https://www.linkedin.com/in/laysqueiroz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <div>
