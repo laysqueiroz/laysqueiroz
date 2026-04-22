@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/laysqueiroz/laysqueiroz/master/profile-summary-card-output/moonlight/4-productive-time.svg)
-```
-
-    
